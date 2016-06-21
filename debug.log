@@ -1,0 +1,69 @@
+
+{
+	gl.supports_vertex_array_object: true
+	cocos2d.x.version: Quick-Cocos2dx-Community 3.6.2 Release
+	gl.vendor: Intel Inc.
+	gl.supports_PVRTC: false
+	gl.renderer: Intel HD Graphics 3000 OpenGL Engine
+	cocos2d.x.compiled_with_profiler: false
+	gl.max_texture_size: 8192
+	gl.supports_ETC1: false
+	gl.supports_BGRA8888: false
+	cocos2d.x.build_type: RELEASE
+	gl.supports_discard_framebuffer: false
+	gl.supports_NPOT: true
+	gl.supports_S3TC: true
+	gl.version: 2.1 INTEL-10.0.40
+	gl.supports_ATITC: false
+	gl.max_texture_units: 16
+	cocos2d.x.compiled_with_gl_state_cache: true
+}
+
+
+Quick-Cocos2dx-Community C++ support ready.
+------------------------------------------------
+LOAD LUA FILE: /Users/admin/Documents/development/cocos/mygame/flyman/src/main.lua
+------------------------------------------------
+[LUA-print] ===========================================================
+[LUA-print]               LOAD QUICK FRAMEWORK
+[LUA-print] ===========================================================
+[LUA-print] [INFO] 
+[LUA-print] [INFO] # DEBUG                        = 2
+[LUA-print] [INFO] #
+[LUA-print] [INFO] # device.platform              = mac
+[LUA-print] [INFO] # device.model                 = unknown
+[LUA-print] [INFO] # device.language              = cn
+[LUA-print] [INFO] # device.writablePath          = /Users/admin/Documents/development/cocos/mygame/flyman/
+[LUA-print] [INFO] # device.directorySeparator    = /
+[LUA-print] [INFO] # device.pathSeparator         = :
+[LUA-print] [INFO] #
+libpng warning: iCCP: known incorrect sRGB profile
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_HEIGHT
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 1440.00
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 960.00
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+[LUA-print] [INFO] # display.contentScaleFactor   = 0.67
+[LUA-print] [INFO] # display.width                = 1440.00
+[LUA-print] [INFO] # display.height               = 960.00
+[LUA-print] [INFO] # display.cx                   = 720.00
+[LUA-print] [INFO] # display.cy                   = 480.00
+[LUA-print] [INFO] # display.left                 = 0.00
+[LUA-print] [INFO] # display.right                = 1440.00
+[LUA-print] [INFO] # display.top                  = 960.00
+[LUA-print] [INFO] # display.bottom               = 0.00
+[LUA-print] [INFO] # display.c_left               = -720.00
+[LUA-print] [INFO] # display.c_right              = 720.00
+[LUA-print] [INFO] # display.c_top                = 480.00
+[LUA-print] [INFO] # display.c_bottom             = -480.00
+[LUA-print] [INFO] #
+[LUA-print] 游戏初始化完成~
+libpng warning: iCCP: known incorrect sRGB profile
+[LUA-print] [INFO] audio.preloadMusic() - filename: sound/background.mp3
+[LUA-print] [INFO] audio.preloadSound() - filename: sound/button.wav
+[LUA-print] [INFO] audio.preloadSound() - filename: sound/ground.mp3
+[LUA-print] [INFO] audio.preloadSound() - filename: sound/heart.mp3
+[LUA-print] [INFO] audio.preloadSound() - filename: sound/hit.mp3
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[LUA-print] [INFO] userdata: 0x14fcdd08 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 1, tag: 
