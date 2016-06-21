@@ -118,6 +118,7 @@ function GameScene:addCollision()
 		local over = display.newSprite("image/over.png")
 		:pos(display.cx, display.cy)
 		:addTo(self)
+		audio.stopMusic(true)--停止播放音乐并释放资源
 
 		cc.Director:getInstance():getEventDispatcher():removeAllEventListeners()
 	end
