@@ -1,10 +1,10 @@
 
 -- 0 - disable debug info, 1 - less debug info, 2 - verbose debug info
 --dubug模式 0 关闭 1打印少量信息 2 打印大量信息
-DEBUG = 2
+DEBUG = 0
 
 -- display FPS stats on screen 显示右下角fps信息
-DEBUG_FPS = true
+DEBUG_FPS = false
 
 -- dump memory info every 10 seconds 是否每10秒打印一次内存信息
 DEBUG_MEM = false
@@ -19,8 +19,8 @@ LOAD_SHORTCODES_API = true
 CONFIG_SCREEN_ORIENTATION = "portrait"
 
 -- design resolution
-CONFIG_SCREEN_WIDTH  = 640
-CONFIG_SCREEN_HEIGHT = 960
+CONFIG_SCREEN_WIDTH  = 720
+CONFIG_SCREEN_HEIGHT = 1280
 
 -- auto scale mode 屏幕适配策略 宽度 高度上填充
 CONFIG_SCREEN_AUTOSCALE = "FIXED_HEIGHT"
